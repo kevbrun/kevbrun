@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kevin Brunner (@kevbrun) a developer and hobby game developer (degree in computer sciences and game design) from Switzerland
+- 👀 I’m interested in games, technologies
+- 🌱 I’m currently learning Rust and how to developing a game engine
+- 💞️ I’m looking to collaborate to everything to meet new people 
+- 📫 You can reach me on kevin.rene.brunner@gmail.com
